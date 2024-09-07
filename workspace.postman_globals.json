@@ -1,0 +1,43 @@
+{
+	"id": "e37d0b16-eae6-4a8a-8fdf-694f8d552a47",
+	"values": [
+		{
+			"key": "URL",
+			"value": "https://api.postalpincode.in/pincode",
+			"enabled": true
+		},
+		{
+			"key": "postmanBDD",
+			"value": "[{\"Message\":\"Number of pincode(s) found:21\",\"Status\":\"Success\",\"PostOffice\":[{\"Name\":\"Baroda House\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Bengali Market\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Bhagat Singh Market\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Connaught Place\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Constitution House\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Election Commission\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Janpath\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Krishi Bhawan\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Lady Harding Medical College\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"New Delhi \",\"Description\":null,\"BranchType\":\"Head Post Office\",\"DeliveryStatus\":\"Delivery\",\"Circle\":\"Delhi\",\"District\":\"New Delhi\",\"Division\":\"New Delhi GPO\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"North Avenue\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Parliament House\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Patiala House\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Pragati Maidan\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Pragati Maidan Camp\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Rail Bhawan\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Sansad Marg\",\"Description\":null,\"BranchType\":\"Head Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Sansadiya Soudh\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Secretariat North\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Shastri Bhawan\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"},{\"Name\":\"Supreme Court\",\"Description\":null,\"BranchType\":\"Sub Post Office\",\"DeliveryStatus\":\"Non-Delivery\",\"Circle\":\"Delhi\",\"District\":\"Central Delhi\",\"Division\":\"New Delhi Central\",\"Region\":\"Delhi\",\"Block\":\"New Delhi\",\"State\":\"Delhi\",\"Country\":\"India\",\"Pincode\":\"110001\"}]}]",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "32e11557-091b-4419-aaf1-10f094e8fa60",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "sys_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "protocol",
+			"value": "https",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Sys_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-09-03T19:29:28.483Z",
+	"_postman_exported_using": "Postman/11.10.0"
+}
